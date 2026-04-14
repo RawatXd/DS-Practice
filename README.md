@@ -10,18 +10,6 @@
 
 ---
 
-## 📁 Repository Structure
-ML-Practice/
-│
-├── python/                          # Core Python concepts & exercises
-├── Mathematics/                     # Math foundations for ML (Linear Algebra, Stats, etc.)
-├── SQL/                             # SQL practice and queries
-├── Machine Learning/
-│   └── Supervised Machine Learning - Regression/   # Regression algorithms & notebooks
-└── Case Studies/                    # Real-world ML case studies
-
----
-
 ## 📚 Topics Covered
 
 | Module | Topics |
